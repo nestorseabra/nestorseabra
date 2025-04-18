@@ -1,16 +1,20 @@
-## Hi there 👋
+---
+## About Me
 
-<!--
-**nestorseabra/nestorseabra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about coding and problem-solving. Currently, I'm diving into Python and web development with Django.
 
-Here are some ideas to get you started:
+With a creative background, I love blending logic and design, and I'm always looking for new challenges to grow my skills. I aim to contribute to open-source projects and collaborate with other developers to learn and improve.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenhkbXVxejJpZTM4ODlvcG5xM3BydXQ3aHgyMTk3OHFjeGxoN28zdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fvaNRtE1LlK4X2DIXk/giphy.gif" alt="Rushia" width="400"/>
+</p>
+
+### Currently Learning:
+- Python 
+- Django 
+- Git & GitHub
+
+### Tools I Use:
+- Visual Studio Code
+- Git / GitHub
+---
