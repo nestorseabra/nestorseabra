@@ -7,34 +7,22 @@ I'm a creative person with a strong interest in coding and design. Currently exp
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenhkbXVxejJpZTM4ODlvcG5xM3BydXQ3aHgyMTk3OHFjeGxoN28zdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fvaNRtE1LlK4X2DIXk/giphy.gif" alt="Rushia" width="400"/>
 </p>
 
-📚 Currently Learning
+## 📚 Currently Learning
+- Python  
+- Django  
+- Git & GitHub  
+- HTML, CSS, and JavaScript  
 
-    Python
+## 🛠️ Tools I Use
+- Visual Studio Code  
+- Git & GitHub  
+- Replit, Glitch  
 
-    Django
+## 🎯 Dev Goals
+- Contribute to open-source projects  
+- Build useful and well-crafted apps  
+- Learn in public and connect with other developers  
 
-    Git & GitHub
-
-    HTML, CSS, and JavaScript
-
-🛠️ Tools I Use
-
-    Visual Studio Code
-
-    Git & GitHub
-
-    Replit, Glitch
-
-🎯 Dev Goals
-
-    Contribute to open-source projects
-
-    Build useful and well-crafted apps
-
-    Learn in public and connect with other developers
-
-🧩 Fun Facts
-
-    Cat enthusiast and GIF collector
-
-    Background in digital art
+## 🧩 Fun Facts
+- Cat enthusiast and GIF collector  
+- Background in digital art  
