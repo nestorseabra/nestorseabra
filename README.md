@@ -1,5 +1,5 @@
 ---
-##👋 About Me
+## 👋 About Me
 
 I'm a creative person with a strong interest in coding and design. Currently exploring Python and Django — and really enjoying the process. I like combining logic and aesthetics to build projects that are both functional and visually appealing.
 
